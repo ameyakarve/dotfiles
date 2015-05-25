@@ -1,0 +1,23 @@
+{
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "Aurora Color Scheme",
+    "HTML Mustache",
+    "JSCS-Formatter",
+    "JsFormat",
+    "LaTeX-cwl",
+    "LaTeXTools",
+    "Package Control",
+    "Pretty JSON",
+    "Request",
+    "SublimeLinter",
+    "SublimeSBT",
+    "Theme - Spacegray",
+    "URLEncode",
+    "VCS Gutter",
+    "Whitespace"
+  ]
+}

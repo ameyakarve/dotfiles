@@ -1,0 +1,9 @@
+{
+  "color_scheme": "Packages/Aurora Color Scheme/Aurora.tmTheme",
+  "font_size": 18.0,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "theme": "Spacegray.sublime-theme"
+}
