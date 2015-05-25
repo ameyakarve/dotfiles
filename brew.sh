@@ -24,3 +24,7 @@ npm install -g grunt-cli yo bower browserify express-generator generator-chrome-
 
 # Scala
 brew install scala;
+
+# Sublime text
+brew tap caskroom/versions;
+brew cask install sublime-text3;

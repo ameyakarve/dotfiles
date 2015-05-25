@@ -1,0 +1,44 @@
+# Case sensitive for camel case only
+--smart-case
+
+# Follow symlinks 
+--follow
+
+# Always color
+--color
+
+# Sort files, group
+--sort-files
+--group
+
+# ignore some dirs
+--ignore-dir=build/
+--ignore-dir=.git/
+--ignore-dir=.svn/
+--ignore-dir=.dg/
+--ignore-dir=.idea/
+--ignore-dir=node_modules/
+
+
+--type-set
+json:ext:json
+--type-set
+test:match:.*Test.*
+--type-set
+cfg:ext:src,fabric,properties,src
+--type-set
+scala:ext:scala,sbt
+--type-set
+log:ext:log
+--type-set
+spring:ext:spring
+--type-set
+gradle:ext:gradle
+--type-set
+pdsc:ext:pdsc
+--type-set
+avsc:ext:avsc
+--type-set
+pig:ext:pig
+--type-set
+dust:ext:dust,tl
